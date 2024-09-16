@@ -1,4 +1,4 @@
-# hak-tools
+# M1 Tools
 Homebrew Penertration Testing tools for macos m1/m2 etc,
 
 TURN YOUR MACOS INTO A ETHICAL HACKING ENVIROMENT
@@ -21,3 +21,7 @@ If you would like the basic tools for the macbook for penertration tesitng, run 
 After Installtion, 
 Start Hacking Away!
 
+
+
+
+@hak-tools
